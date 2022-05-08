@@ -3,7 +3,7 @@
 
 
 # 💫About Me :
-I’m currently learning Web Devolopment.
+I’m currently learning Web Devolopment. </br>
 How to reach me skanderbensalem29@gmail.com
 
 ## 🌐Socials
