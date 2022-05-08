@@ -1,5 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=skander">
 
-<h1 align="center">Hi 👋, I'm Sreekaran Reddy Ramasahayam</h1>
+<h1 align="center">Hi 👋, I'm Skander Ben Salem</h1>
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekaran1704&label=Profile%20views&color=0e75b6&style=flat" alt="sreekaran1704" /> </p>
