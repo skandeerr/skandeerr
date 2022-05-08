@@ -2,64 +2,19 @@
 <h1 align="center">Hi 👋, I'm Skander Ben Salem</h1>
 
 
-- 🌱 I’m currently learning **Web Devolopment.**
+# 💫About Me :
+I’m currently learning Web Devolopment.
+How to reach me skanderbensalem29@gmail.com
 
-- 📫 How to reach me **skanderbensalem29@gmail.com**
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/skander.bensalem.71/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/skander-ben-salem-b86223229/) 
 
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=skandeerr&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=skandeerr&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skandeerr&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h3 align="left">Languages I Know</h3>
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="java" />
-<img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="c++" />
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"alt="python" />
- <span class="iconify" data-icon="logos:github-icon"></span>
-
-</p> 
-
-<h3 align="left">Frontend Skills</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" width="40"/> 
-</p>
-
-<h3 align="left">Others</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
-</p>
-
-<h3 align="left">My Coding Profiles</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/sreekaran1704" target="_blank"> <img alt="Codechef" src ="https://cp-logo.vercel.app/codechef/sreekaran1704?logo=true" height="28px"/> </a>
-</p>
-<table>
- <tr>
-  <td><h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/skander-ben-salem-b86223229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreekaran1704" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sreekaran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sreekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreekaran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sreekaran1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sreekaran1704" height="30" width="40" /></a>
-   </p></td>
- </tr>
- </table>
-
-
-
-
-
-
- <table>
-        <tr>
-           <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekaran1704&" alt="sreekaran1704" /></p></td>
-            <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sreekaran1704&show_icons=true&locale=en" alt="Sreekaran" /></p></td>
-        </tr>
-    </table>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekaran1704&show_icons=true&locale=en&layout=compact" alt="Sreekaran" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=skandeerr&icon=0&color=0)](https://visitcount.itsvg.in)
