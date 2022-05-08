@@ -10,11 +10,13 @@
 
 <h3 align="left">Languages I Know</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank"> 
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="java" /> </a> 
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="c++" /></a>
-<a href="https://isocpp.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src= "https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"alt="python" /></a>
+
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="java" />
+<img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="c++" />
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"alt="python" />
+ <span class="iconify" data-icon="logos:github-icon"></span>
+
 </p> 
 
 <h3 align="left">Frontend Skills</h3>
