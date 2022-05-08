@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=skander">
 
 <h1 align="center">Hi 👋, I'm Skander Ben Salem</h1>
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
@@ -6,11 +5,8 @@
 
 - 🌱 I’m currently learning **Web Devolopment.**
 
-- 👨‍💻 You can also check out my portfolio at [https://sreekaran1704.github.io/Resume-Website/](https://sreekaran1704.github.io/Resume-Website/)
-
 - 📫 How to reach me **skanderbensalem29@gmail.com**
 
-- ⚡ Fun fact **I think I have a good Sense of humor**
 
 <h3 align="left">Languages I Know</h3>
 <p align="left">
