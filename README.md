@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Skander Ben Salem</h1>
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekaran1704&label=Profile%20views&color=0e75b6&style=flat" alt="sreekaran1704" /> </p>
 
 - 🌱 I’m currently learning **DSA and Web Devolopment.**
 
 - 👨‍💻 You can also check out my portfolio at [https://sreekaran1704.github.io/Resume-Website/](https://sreekaran1704.github.io/Resume-Website/)
 
-- 📫 How to reach me **sreekaran.2021@gmail.com**
+- 📫 How to reach me **skanderbensalem29@gmail.com**
 
 - ⚡ Fun fact **I think I have a good Sense of humor**
 
