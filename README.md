@@ -4,7 +4,7 @@
 <h3 align="center">I am a bird without wings trying to figure out things!!!</h3>
 
 
-- 🌱 I’m currently learning **DSA and Web Devolopment.**
+- 🌱 I’m currently learning **Web Devolopment.**
 
 - 👨‍💻 You can also check out my portfolio at [https://sreekaran1704.github.io/Resume-Website/](https://sreekaran1704.github.io/Resume-Website/)
 
